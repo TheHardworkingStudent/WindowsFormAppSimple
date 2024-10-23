@@ -1,0 +1,16 @@
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.Form1.resources
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.csproj.GenerateResource.cache
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.AssemblyInfo.cs
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Anaximander\source\repos\Assignment1\bin\Debug\net8.0-windows\Assignment1.exe
+C:\Users\Anaximander\source\repos\Assignment1\bin\Debug\net8.0-windows\Assignment1.deps.json
+C:\Users\Anaximander\source\repos\Assignment1\bin\Debug\net8.0-windows\Assignment1.runtimeconfig.json
+C:\Users\Anaximander\source\repos\Assignment1\bin\Debug\net8.0-windows\Assignment1.dll
+C:\Users\Anaximander\source\repos\Assignment1\bin\Debug\net8.0-windows\Assignment1.pdb
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.dll
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\refint\Assignment1.dll
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.pdb
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\Assignment1.genruntimeconfig.cache
+C:\Users\Anaximander\source\repos\Assignment1\obj\Debug\net8.0-windows\ref\Assignment1.dll
